@@ -1,8 +1,6 @@
-# Random-Forest
 # Random Forest
 
 ## Introduzione
-
 ![Albero decisionale generato per la classificazione dei petali del Dataset Iris](Immagini/forest.jpg)
 
 Per parlare di Random Forest (RF), è importante comprendere il concetto di metodi di *ensemble*. In genere, non utilizziamo solo un singolo algoritmo per creare modelli predittivi, ma ne utilizziamo diversi con lo scopo di migliorare le prestazioni complessive.
