@@ -1,7 +1,7 @@
 # Random Forest
 
 ## Introduzione
-![Albero decisionale generato per la classificazione dei petali del Dataset Iris](Immagini/forest.jpg)
+![Albero decisionale generato per la classificazione dei petali del Dataset Iris](/forest.jpg)
 
 Per parlare di Random Forest (RF), è importante comprendere il concetto di metodi di *ensemble*. In genere, non utilizziamo solo un singolo algoritmo per creare modelli predittivi, ma ne utilizziamo diversi con lo scopo di migliorare le prestazioni complessive.
 
@@ -29,7 +29,7 @@ Per utilizzare l'algoritmo Random Forest con RapidMiner Studio, è possibile seg
 2. Configurare un blocco per l'algoritmo Random Forest.
 3. Eseguire l'addestramento e ottenere una classificazione accurata.
 
-![Configurazione dell'algoritmo Random Forest in RapidMiner Studio](Immagini/forest1.jpg)
+![Configurazione dell'algoritmo Random Forest in RapidMiner Studio](/forest1.jpg)
 
 Questo processo semplificato consente di utilizzare Random Forest senza la necessità di scrivere codice.
 
